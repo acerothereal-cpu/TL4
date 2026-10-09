@@ -1,0 +1,338 @@
+[•] - Inventory 1
+KVN Inventory
+KNV1 Adrenaline
+KNV2 Pill
+KNV3 ~1~
+KNV4 Medical
+KNV5 ~b~Radio~b~:
+KNV6 ------------------------------
+KNV7 ~g~Money~g~:
+KNV8 ~y~Seconds played~y~:
+KNV9 ~r~Kill Special infected~r~:
+#<<<<<>>>>>#
+MODZ Inventory
+INV1 Food
+INV2 Bandage
+INV3 ~1~
+INV4 Medical
+INV5 Adrenaline
+INV6 Armour
+INV7 Water
+INV8 Canister
+INV9 Fire
+INV10 -----------------------------
+INV11 ~b~Radio~b~:
+INV12 Master key
+INV13 ~y~Seconds played~y~:
+(Used)
+HUD1 Adrenaline
+HUD2 Atravlenia
+water1 Atravlenia
+TJK You are dead.
+TJK000 ~y~You ate some food.~y~
+TJK00 You used a bandage.
+TJK01 You used a first aid kit.
+TJK02 You used adrenaline.
+TJK03 You used armor.
+TJK04 You drank some water.
+TJK05 You used a canister.
+TJK06 You built a fire.
+TJK07 You cooked meat on the fire.
+TJK08 Food++
+water1 Poisoning!!!
+return
+
+[•] - MODE_MENU_TEST : 
+TEST01 Zombies System
+TEST02 Ztank System
+TEST03 Zwitch System
+TEST04 Zhunter System
+TEST05 Zcharger System
+TEST06 Zhazmat System
+TEST07 Zbomer System
+TEST08 Zhorde System
+TEST09 Animals System
+TEST10 SVrandom Car Systems
+TEST11 Survivors Systems
+TEST12 Bandits System
+TEST13 Army System
+TEST14 Swat System
+TEST15 Farmer System
+TEST16 AIRDP System
+TEST17 DeadSV System
+TEST18 Broken car System
+TEST19 Army hunter System
+TEST20 Bandits helicopter System
+TEST21 All base System
+return
+
+[•] - Dealer dialogs
+MIM1 ~b~Dealer~s~: You bought: Random weapons
+MIM2 ~b~Dealer~s~: You bought: Food
+MIM3 ~b~Dealer~s~: You bought: Medical supplies
+MIM4 ~b~Dealer~s~: You bought: Bandage
+MIM5 ~b~Dealer~s~: You bought: Adrenaline
+MIM6 ~b~Dealer~s~: You bought: Armor
+MIM7 ~b~Dealer~s~: You bought: Radio
+MIM8 ~b~Dealer~s~: You bought: Flamethrower
+MIM8 ~b~Dealer~s~: You bought: Chainsaw
+MAM15 ~b~Dealer~s~: You bought: Water
+KANIS3 ~b~Dealer~s~: You bought: Canister
+MIM9 ~b~Dealer~s~: Hello, wanderer. What do you want to buy?
+MIM ~b~Dealer~s~: Hello, wanderer. What do you want to buy?
+NMNY ~b~Dealer~s~: You do not have enough money :/
+#<<<<>>>>>#
+WPNS Arms and ammunition seller
+ORE Weapons:
+FOD Food:
+MED Medical:
+PIL Bandage:
+ADR Adrenaline:
+ARM Armor:
+RAD Radio:
+FLA Flamethrower:
+VOD Bottle of water:
+KANIS2 Canister:
+BEN Chainsaw:
+return
+
+[•] - Random dialogs game. 
+TJK8 You took fried meat. 
+TJK9 ~b~Airdrop~s~: Supplies are being dropped for you now.
+TJK10 You took the supplies.
+TJK11 You cut the meat.
+TJK12 The door is closing.
+TJK13 The door is opening.
+INV57 You are hungry.
+INV58 You are very hungry!!!
+INV55 You are tired.
+INV56 You are very tired, almost dying!!!
+INV61 You are thirsty.
+INV60 You are very thirsty!!!
+TJK15 You found a first aid kit and a bandage.
+TJK16 You found a walkie-talkie.
+TJK17 You did not find anything.
+TJK18 You got water.
+TJK19 You are bleeding use a first aid kit and a bandage.
+TJK20 You are tired take a break.
+TJK21 You did not escape in time — the bombing has begun!!!
+TJK22 ~b~Farik Klass~s~: Hold out until the rescuer arrives.
+TJK23 Cross to the other side of the bridge and the rescuers will pick you up.
+TJK24 Left 4 Dead: SA Mobile.
+TJK25 The beginning of horror.
+FRK1 Storyline mode
+FRK2 Survival mode
+BOMB You did not escape in time — the bombing has begun!!!
+GMD_S20 ~b~Rescuer~s~: Anyone who hears me, go to the evacuation point.
+TJK28 ~b~Farik Klass~s~: Your task is to find a walkie-talkie and escape the State.
+TJK29 ~b~Farik Klass~s~: In this mode, you must survive indefinitely with no State bombing.
+TJK30 ~b~Farik Klass~s~: Warning!!!
+TJK31 ~b~Farik Klass~s~: You must find a rescue point and escape the State.
+TJK32 ~b~Farik Klass~s~: In this mode, you play as a random faction: SWAT, Bandits, Military, Farmer, or Black Watch.
+TJK33 ~b~Farik Klass~s~: In this mode, you play as either humans or infected — chosen randomly.
+??? Your task is to reach the evacuation point.
+??? You found Adrenaline Armor.
+KILLS ~g~Zombies Killed~s~
+BENSIN ~1~
+KIlLSS ~r~Zombies Killed~s~
+FRIK Hold out until the rescuer arrives.
+GAME2 Time Left
+ZMIN1 Time started.
+ZMIN01 Zombie Horde 1
+ZMIN02 Zombie Horde 2
+ZMIN03 Zombie Horde 3
+GASOLIN ~b~GASOLINE~s~:
+KST Killed
+STORY Storyline
+HUD1 Adrenaline
+HUD2 Water
+{{{Cars use}}}
+PCKL On
+CRLT1 ~y~You found food.~s~
+CRLT2 You found a weapon.
+CRLT3 You found a bandage.
+CRLT4 You found medicine.
+CRLT5 You found adrenaline.
+CRLT6 You found armor.
+CRLT7 You found water.
+CRLT8 You found a canister.
+CRLT9 ~g~You found money.~s~
+CRLT10 You found a master key.
+NOTI ~r~You found nothing.~s~
+(Canister-system)
+KVN Gasoline
+KAN1 You spilled gasoline.
+KAN2 You leaked gasoline.
+KAN3 You spilled gasoline on the car.
+KAN4 You drained gasoline from the car.
+KAN3 ~1~
+TJK50 ~b~Farik Klass~s~: Survival style THE LAST OF US.
+SAVE2 THE LAST OF US MODE
+SPEC1 ZOMBIES: TANK + WITCH
+SPEC2 ZOMBIES: HUNTER + CHARGER
+KEY01 You cracked the car door now you can open it.
+KEY02 ~r~The master key broke.~s~
+GAS GASOLINE.
+TJK51 ~b~Farik Klass~s~: War mode.
+INFZM ~b~Farik Klass~s~: Kill 20 zombies — then the base will be yours.
+INFZM1 ~b~Farik Klass~s~: You killed all zombies — now your base is safe.
+TJK001 ~r~You ate spoiled food.~s~
+ODIN Once is enough!
+HUNG Hungry
+BEGA Water
+HIT1 Loading
+HIT2 Loading.
+HIT3 Loading..
+HIT4 Loading...
+HLPD1 Hint: You can search cars to do this, break the cars trunk.
+HLPD2 Hint: You can drink water by going to a water source and pressing the activation button.
+HLPD3 Hint: To become immortal for a short time, find adrenaline, open the inventory, and use it.
+HLPD4 Hint: To find a walkie-talkie, locate a police car and enter it or go to a police station.
+HLPD5 Hint: To hunt animals (two rabbits and one deer), kill them, then press activation to collect meat. To cook it, open the inventory and choose a campfire.
+PRAVO ~g~Right arrow green~s~
+VNIZ ~b~Down arrow blue~s~
+VERH ~y~Up arrow yellow~s~
+LEVA ~r~Left arrow red~s~
+FULL ~g~You re already full; wait until you can eat again...~s~
+FULL1 ~g~You ve reached your thirst limit; wait until you can again...~s~
+return
+
+[•] - Escape random dialogs. 
+GAME9 ~y~You've eaten~y~
+GAME13 ~b~Escaper~s~: Tell me your locality.
+GAME14 ~b~Escaper~s~: Wait us.
+GAME15 Los Santos, Verona beach.
+GAME16 Las Venturas, foggy district.
+GAME17 Countryside, the rock Chiliad.
+GAME18 San Fierro, esplanade east.
+GAME19 San Fierro, bayside marina.
+GAME20 Desert, arco del oeste
+SPASLIS You saved
+NAZR1 bbbbbb.
+NAZR2 AAAAA
+NAZR3 FFFF
+NAZR4 EEEE
+NAZR5 VVVV
+NAZR6 TTTT
+GAME21 ~y~You've cleaned Zone 69~y~
+GAME22 ~r~Salvation failed~r~
+return
+
+[•] - Rescuer. 
+GAME126 ~b~Rescuer~s~: Let's get on the chopper!
+GAME127 ~b~Rescuer~s~: Let's get on the board!
+GAME128 ~b~Rescuer~s~: Ahead, ahead, ahead!
+GAME129 ~b~Rescuer~s~: I can't stay here anymore, move it!
+GAME130 ~b~Rescuer~s~: Inside, rather, do not pull!
+GAME131 ~b~Rescuer~s~: Insade, quickly!
+GAME132 ~b~Rescuer~s~: Faster in the boat!
+GAME133 ~b~Rescuer~s~: Now!
+GAME134 ~b~Rescuer~s~: Get in the boat!
+GAME135 ~b~Rescuer~s~: Move, move!
+GAME136 ~b~Rescuer~s~: Come on, faster!
+return
+
+ [•] - Random name Survivor. 
+N_ME0 Survivor: ~g~Carl~s~
+N_ME1 Survivor: ~g~Houston~s~
+N_ME2 Survivor: ~g~Bob~s~
+N_ME3 Survivor: ~g~George~s~
+N_ME4 Survivor: ~g~Pet~s~
+N_ME5 Survivor: ~g~Peter~s~
+N_ME6 Survivor: ~g~Robert~s~
+N_ME7 Survivor: ~g~Forest~s~
+N_ME8 Survivor: ~g~Farik Klass~g~
+N_ME9 Survivor: ~g~Steve~s~
+N_ME10 Survivor: ~g~Rob~s~
+N_ME11 Survivor: ~g~Reise~s~
+N_ME12 Survivor: ~g~Johnny~s~
+N_ME13 Survivor: ~g~Brian~s~
+N_ME14 Survivor: ~g~Richard~s~
+N_ME15 Survivor: ~g~Jack~s~
+N_ME16 Survivor: ~g~Jones~s~
+N_ME17 Survivor: ~g~Larry~s~
+N_ME18 Survivor: ~g~Harry~s~
+N_ME19 Survivor: ~g~Panin~s~
+N_ME20 Survivor: ~g~Clam~s~
+N_ME21 Survivor: ~g~Gary~s~
+N_ME22 Survivor: ~g~Clyde~s~
+N_ME23 Survivor: ~g~Ken~s~
+N_ME24 Survivor: ~g~Sheldon~s~
+N_ME25 Survivor: ~g~Bruce~s~
+N_ME26 Survivor: ~g~Ricardo~s~
+N_ME27 Survivor: ~g~Konor~s~
+N_ME28 Survivor: ~g~Gordon~s~
+N_ME29 Survivor: ~g~Richard~s~
+N_ME30 Survivor: ~g~Trevor~s~
+N_ME31 Survivor: ~g~Djo~s~
+N_ME32 Survivor: ~g~John~s~
+N_ME33 Survivor: ~g~Gerard~s~
+N_ME34 Survivor: ~g~Theodore~s~
+N_ME35 Survivor: ~g~Djo~s~
+N_ME36 Survivor: ~g~Christopher~s~
+N_ME37 Survivor: ~g~James~s~
+N_ME38 Survivor: ~g~Godwin~s~
+N_ME39 Survivor: ~g~Moses~s~
+N_ME40 Survivor: ~g~Joseph~s~
+N_ME41 Survivor: ~g~Jonathan~s~
+N_ME42 Survivor: ~g~Kevin~s~
+N_ME43 Survivor: ~g~May~s~
+N_ME44 Survivor: ~g~Tim~s~
+N_ME45 Survivor: ~g~Derek~s~
+N_ME46 Survivor: ~g~Sem~s~
+N_ME47 Survivor: ~g~KHabib~s~
+N_ME48 Survivor: ~g~Peter~s~
+N_ME49 Survivor: ~g~Fastman92~s~
+N_ME50 Survivor: ~g~Richard~s~
+N_ME51 Survivor: ~g~Dustin~s~
+N_ME52 Survivor: ~g~Joshya~s~
+N_ME53 Survivor: ~g~Henry~s~
+N_ME54 Survivor: ~g~Connor~s~
+N_ME55 Survivor: ~g~Mike~s~
+N_ME56 Survivor: ~g~Samuel~s~
+N_ME57 Survivor: ~g~Doreen~s~
+N_ME58 Survivor: ~g~Clammy~s~
+N_ME59 Survivor: ~g~Anthony~s~
+N_ME60 Survivor: ~g~George~s~
+N_ME61 Survivor: ~g~William~s~
+N_ME62 Survivor: ~g~Thomas~s~
+N_ME63 Survivor: ~g~Oliver~s~
+N_ME64 Survivor: ~g~Ambrose~s~
+N_ME65 Survivor: ~g~Alfred~s~
+N_ME66 Survivor: ~g~Brian~s~
+N_ME67 Survivor: ~g~Gary~s~
+N_ME68 Survivor: ~g~Randall~s~
+N_ME69 Survivor: ~g~Carlos~s~
+N_ME70 Survivor: ~g~Eddie~s~
+N_ME71 Survivor: ~g~Sara~s~
+N_ME72 Survivor: ~g~Marilyn~s~
+N_ME73 Survivor: ~g~Kim~g~
+N_ME74 Survivor: ~g~Mary~s~
+N_ME75 Survivor: ~g~Margaret~s~
+N_ME76 Survivor: ~g~Madeline~s~
+N_ME77 Survivor: ~g~Amanda~s~
+N_ME78 Survivor: ~g~Jessica~s~
+N_ME79 Survivor: ~g~Dane~s~
+N_ME80 Survivor: ~g~Martha~s~
+N_ME81 Survivor: ~g~Elizabeth~s~
+N_ME82 Survivor: ~g~Carol~s~
+N_ME83 Survivor: ~g~Anna~s~
+N_ME84 Survivor: ~g~Rosemary~s~
+N_ME85 Survivor: ~g~Angelica~s~
+N_ME86 Survivor: ~g~Shanna~s~
+N_ME87 Survivor: ~g~Helen~s~
+N_ME88 Survivor: ~g~Katie~s~
+N_ME89 Survivor: ~g~Michelle~s~
+N_ME90 Survivor: ~g~Millie~s~
+N_ME91 Survivor: ~g~Denis~s~
+N_ME92 Survivor: ~g~Edel~s~
+N_ME93 Survivor: ~g~Shonda~s~
+N_ME94 Survivor: ~g~Christiana~s~
+N_ME95 Survivor: ~g~Emma~s~
+N_ME96 Survivor: ~g~Lewis~s~
+N_ME97 Survivor: ~g~Alice~s~
+N_ME98 Survivor: ~g~Edna~s~
+N_ME99 Survivor: ~g~Angelica~s~
+N_ME100 Survivor: ~g~Sienna~s~
+N_ME101 Survivor: ~g~Leila~s~
+return

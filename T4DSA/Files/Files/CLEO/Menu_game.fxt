@@ -1,0 +1,40 @@
+MADE BY : FARIK KLASS MODZ.
+DIALOGS BY : FARIK KLASS MODZ.
+Left 4 Dead Sa beta v1.2.2 mobile.
+
+LCNS0 Made by Farik Klass MODZ
+
+[•] - Menu panel dialogs. 
+MENU CHARACTERS MENU
+M_NU1 Left 4 Dead Sa beta v1.2.2
+M_NU2 Storyline Mode
+M_NU3 Storyline Mode
+M_NU4 Left 4 Dead Style Mode
+M_NU5 Escape State Mode
+M_NU6 Mutations Mode
+M_NU7 Holding Mode
+M_NU9 Versus Mode
+M_NU10 Survival Mode
+M_NU11 Developer mode
+M_NU12 The last of us style Mode
+M_NU13 Faracition Wars Mode
+#<<<<<>>>>>#
+MENU_LEFT 4 DEAD
+P_KSS1 Left 4 Dead Mode
+P_KSS2 ~b~<<Play>>~b~
+P_KSS3 Left 4 Dead
+P_KSS4 Left 4 Dead 2
+P_KSS5 Bridge crossing
+#<<<<<>>>>>#
+A_NU1 Select difficulty
+LOW0 Random
+LOW1 Easy
+LOW2 Medium
+LOW3 Hard
+LOW4 Nightmarish
+#<<<<<>>>>>#
+F_NU1 Random character
+F_NU2 Select a character
+F_NU3 New character
+#<<<<<<>>>>>>>#
+return
